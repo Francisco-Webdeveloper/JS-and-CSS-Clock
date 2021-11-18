@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/67716187/142498446-ca4aad10-dc44-403f-
 ### Cloning
 Go to the Terminal, choose a directory where you wish to clone the repository and run:
 ```bash
-git clone git@github.com:Francisco-Webdeveloper/
+git clone git@github.com:Francisco-Webdeveloper/JS-and-CSS-Clock.git
 ```
 
 ### Local Server
